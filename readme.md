@@ -1,5 +1,5 @@
 To view the website, click on this link:
-https://shinnn1896.github.io/static-web-portofolio-1/
+https://static-web-portfolio-1.shinnn1896.vercel.app/
 
 ---
 
